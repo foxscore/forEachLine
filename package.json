@@ -1,0 +1,16 @@
+{
+  "name": "@foxscore/foreachline",
+  "version": "1.0.0",
+  "description": "Reads a file and executes some code for each line in the file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lib",
+    "fs",
+    "forEach"
+  ],
+  "author": "Fox_score",
+  "license": "ISC"
+}
